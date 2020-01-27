@@ -1,2 +1,11 @@
-# CloudWord-from-Twitter
-The goals it to learn how to getch all the data from a Twitter account and geneate a worldcloud out of it.
+# Twitter-Word-Cloud-Python
+
+The goal is to learn below topics:
+* Fetch the data from Twitter (Working with real-world API)
+* Save the fetched-data in a proper way
+* Visualize the data by using world-cloud package in Python
+
+# Requirements
+* First of all, make sure you have a Twitter account then apply for the Twitter Developer program, in order to access credential details.
+* Then, you can install all the dependencies by using this command:
+`pip3 install -r requirements.txt`
